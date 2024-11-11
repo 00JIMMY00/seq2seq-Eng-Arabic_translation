@@ -1,6 +1,6 @@
 # Seq2Seq English-Arabic Translation Model
 
-# This repository contains a Seq2Seq model for English-Arabic translation, implemented in TensorFlow/Keras.
+This repository contains a Seq2Seq model for English-Arabic translation, implemented in TensorFlow/Keras.
 # The model uses an encoder-decoder LSTM architecture and can translate sentences from English to Arabic.
 # This setup includes weights and tokenizers for easy local testing.
 
